@@ -1,4 +1,4 @@
-# Paper Rock Scissors (Javascript)
+# Rock Paper Scissors (Javascript)
 
 ## Summary
 
