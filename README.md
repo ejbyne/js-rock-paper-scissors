@@ -6,7 +6,7 @@ As part of our introduction to TDD and OOP in JavaScript, one of the exercises i
 
 ## Tech
 
-- Javascript
+- JavaScript
 - Jasmine
 
 ## Rules
@@ -17,5 +17,5 @@ As part of our introduction to TDD and OOP in JavaScript, one of the exercises i
 
 ## Collaborators
 
-- Edward Byne (http://www.github.com/ejbyne)
-- Christopher Batts (http://www.github.com/chrisjbatts)
+- [Ed Byne](https://github.com/ejbyne)
+- [Chris Batts](http://www.github.com/chrisjbatts)
