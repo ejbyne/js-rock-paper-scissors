@@ -1,23 +1,21 @@
-Paper Rock Scissors built in Javascript
-=======================================
+# Paper Rock Scissors (Javascript)
 
-## Overview
+## Summary
 
-Write up of two player Rock Paper Scissors in Javascript.
-
-## Rules
-* rock beats scissors
-* scissors beats paper
-* paper beats rock
-* [same choice] draws with [same choice]
+As part of our introduction to TDD and OOP in JavaScript, one of the exercises in Week 5 at Makers Academy was to recreate the Rock Paper Scissors game, using the Jasmine testing framework.
 
 ## Tech
 
 - Javascript
-- TDD in Jasmine
+- Jasmine
+
+## Rules
+- Rock beats scissors
+- Scissors beats paper
+- Paper beats rock
+- Same choices will draw
 
 ## Collaborators
 
 - Edward Byne (http://www.github.com/ejbyne)
 - Christopher Batts (http://www.github.com/chrisjbatts)
-- Sam Joseph (http://www.github.com/tansaku)
