@@ -4,7 +4,7 @@
 
 As part of our introduction to TDD and OOP in JavaScript, one of the exercises in Week 5 at Makers Academy was to recreate the Rock Paper Scissors game, using the Jasmine testing framework.
 
-## Tech
+## Technologies used
 
 - JavaScript
 - Jasmine
